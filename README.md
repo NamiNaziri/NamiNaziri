@@ -1,7 +1,7 @@
 
 <h2 align="center">👋 Hi, I am Nami 👋</h2>
 
-<p align="center"> <a href="https://github.com/NamiNaziri/Bachelor-s-Project" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49837425/149067754-69838ab8-ddd7-4315-a592-d447828493e0.png" alt="" height="24" /></a> I'm currently working on my bachelor's project.</p>
+<p align="center"> <a href="https://github.com/NamiNaziri/Bachelor-s-Project" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49837425/149067754-69838ab8-ddd7-4315-a592-d447828493e0.png" alt="" height="24" /></a> I like to learn about animation techniques :) </p>
 
 
 <p align="center">
