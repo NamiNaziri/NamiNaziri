@@ -5,9 +5,8 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/49837425/172467013-2730cb30-34f0-47cb-8317-3e83f2974002.gif">
+  <img src="https://github.com/user-attachments/assets/3e430d82-2e7d-4bb6-a133-fcc784461500">
 </p>
-
 
 <h2 align="center">Where to find me</h2>
 
@@ -19,7 +18,7 @@
 <h2 align="center">My stack <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49837425/149068012-e4fe7736-b841-461f-91c3-f5b23cf50a3e.png" alt="" height="32" /></a></h2>
 
 
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
+<p align="center">Tools that I use on a daily basis, or that I've used or worked with (either extensively or briefly) in the past.</p>
 
 <p align="center">
 <a href="https://www.unrealengine.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49837425/149066099-9261df08-2319-4e39-bea4-fe1f26c12760.png" alt="" height="48" /></a>
